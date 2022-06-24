@@ -1,9 +1,9 @@
 <div align="center">
  
  
-  ## Contact:heart: <br/>
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ye1on_k/)](https://www.instagram.com/ye1on_k/)<br/>
-   ## Skills:innocent:
+  ## Contact <br/>
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/ye1on_p/)](https://www.instagram.com/ye1on_p/)<br/>
+   ## Skills
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
