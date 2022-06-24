@@ -1,8 +1,4 @@
 <div align="center">
-<img src="https://mblogthumb-phinf.pstatic.net/MjAxODA0MDVfNDkg/MDAxNTIyODU5NTM2MDQ0.QmjYHPDPdaooLJwmrv53qMr_h3G5YnGNvzn7ZQ5VfQsg.fp7hHs7tz5EH0jLwxWXmmZPIE0TYLantCVsQ7pRvAn0g.GIF.kma9501/IMG_5603.GIF?type=w800"  width="750" height="300">
-
-
-
  
  
   ## Contact:heart: <br/>
